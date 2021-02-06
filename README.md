@@ -1,6 +1,7 @@
 # DiceRoller
 Simple android app created in Kotlin.
 
+![Screenshot](./preview/preview.png)
 
 ## What does this app do?
 
